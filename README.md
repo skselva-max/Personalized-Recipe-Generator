@@ -1,1 +1,1 @@
-# Personalized-Recipe-Generator
+PERSONALIZED RECIPE GENERATOR USING AI
